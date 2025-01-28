@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+pandas
+plotly
+requests
+scikit-learn
+statsmodels
+selenium
+webdriver-manager
